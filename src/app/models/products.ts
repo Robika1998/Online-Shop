@@ -1,4 +1,5 @@
 export interface IProducts {
+[x: string]: any;
     id: number,
     title: string,
     price: number,
@@ -12,3 +13,6 @@ export interface IProductsConfig {
     memory: string,
     display: string,
 }
+
+
+

@@ -9,7 +9,7 @@ import { ProductResolver } from './services/product.resolver';
 const routes: Routes = [
   {path: '', component: BaseComponent},
   {path: 'products', component: ProductsComponent},
-  {path: 'product/:id', component: ProductDetailsComponent },
+  {path: 'product/:id', component: ProductDetailsComponent, resolve:{ data: ProductResolver} },
   {path: 'basket', component: BasketComponent},
 
 

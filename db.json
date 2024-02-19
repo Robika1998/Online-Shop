@@ -1,43 +1,46 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "title": "Macbook Air",
-            "price": "1000",
-            "year": "2024",
-            "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
-            "configure": {
-                "chip": "M1",
-                "SSD": "225 GB",
-                "memory": "16 GB",
-                "display": "Retina"
-            }
-        },
-        {
-            "id": 2,
-            "title": "Macbook pro max",
-            "price": "1600",
-            "year": "2021",
-            "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
-            "configure": {
-                "chip": "M1",
-                "SSD": "225 GB",
-                "memory": "16 GB",
-                "display": "Retina"
-            }
-        },
-        {
-            "id": 3,
-            "title": "Macbook Pro",
-            "price": "2000",
-            "year": "2023",
-            "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
-            "configure": {
-                "chip": "M1",
-                "SSD": "225 GB",
-                "memory": "16 GB",
-                "display": "Retina"
-            }
-        }
-    ]
+  "products": [
+    {
+      "id": null,
+      "title": "23424",
+      "price": "",
+      "year": "",
+      "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "",
+      "price": "",
+      "year": "",
+      "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    },
+    {
+      "id": null,
+      "title": "rt6thhr",
+      "price": "",
+      "year": "",
+      "image": "assets/images/MacBook-Pro-with-Touch-Bar-1.jpg",
+      "configure": {
+        "chip": "",
+        "ssd": "",
+        "memory": "",
+        "display": ""
+      }
+    }
+  ],
+  "basket": [
+    {}
+  ]
 }
